@@ -1,2 +1,2 @@
 # WBBC
-Westlake BioBank for Chinese pilot project
+the Westlake BioBank for Chinese pilot project
