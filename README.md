@@ -6,8 +6,7 @@ The Westlake BioBank for Chinese (WBBC) cohort is a population-based prospective
 The R scripts and pipeline shell script are the Supplementary Software for our study.
 
 Please cited the reference:
-
-https://www.researchsquare.com/article/rs-814288/v1
+Cong, PK., Bai, WY., Li, JC. et al. Genomic analyses of 10,376 individuals in the Westlake BioBank for Chinese (WBBC) pilot project. Nat Commun 13, 2939 (2022). https://doi.org/10.1038/s41467-022-30526-x
 
 
 
